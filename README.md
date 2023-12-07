@@ -35,7 +35,9 @@
 	<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" title="php" width="40" height="40" />
 	<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" title="MySQL" width="40" height="40" />
 	<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" title="Git" width="40" height="40" />
+	<img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg" alt="gimp" title="Gimp" width="40" height="40" />
 	<img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" alt="photoshop" title="Photoshop" width="40" height="40" />
+	<img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" alt="premiere pro" title="Premier Pro" width="40" height="40" />
 </p>
 
 <h4 align="left">Still Learning:</h4>
