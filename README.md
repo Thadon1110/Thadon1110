@@ -60,4 +60,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thadon1110&show_icons=true&locale=en&layout=compact&title_color=ffffff&text_color=2bbc8a&bg_color=1d1f21" alt="thadon1110" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thadon1110&show_icons=true&count_private=true&locale=en&title_color=ffffff&text_color=2bbc8a&bg_color=1d1f21" alt="thadon1110" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thadon1110&show_icons=true&count_private=true&locale=en&title_color=ffffff&text_color=2bbc8a&bg_color=1d1f21" alt="thadon1110" /></p> -->
