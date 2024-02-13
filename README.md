@@ -1,6 +1,6 @@
 ![MasterHead](./banner.gif)
 <h1 align="center">Hi 👋, I'm Damian Duda</h1>
-<h3 align="center">A passionate frontend developer from Poland, second year student</h3>
+<h3 align="center">A passionate full stack developer from Poland, second year student</h3>
 <img align="right" alt="Coding" width="400" src="./header.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thadon1110&label=Profile%20views&color=0e75b6&style=flat" alt="thadon1110" /> </p>
