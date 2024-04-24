@@ -54,8 +54,11 @@
 	<img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" alt="unreal engine 5" title="Unreal Engine 5" width="40" height="40" />
 	<img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" alt="blender" title="Blender" width="40" height="40" />
 	<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" title="C" width="40" height="40" />
-	<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" title="C++" width="40" height="40" />
-	<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" title="Python" width="40" height="40" />
+	<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="c++" title="C++" width="40" height="40" />
+	<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="c#" title="C#" width="40" height="40" />
+	<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" title="JAVA" width="40" height="40" />
+	<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" alt="visual studio" title="Visual Studio" width="40" height="40" />
+	<img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="intellij" title="INTELLIJ" width="40" height="40" />
 </p>
 
 ---
