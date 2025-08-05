@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thadon1110&label=Profile%20views&color=0e75b6&style=flat" alt="thadon1110" /> </p>
 
-- 🔭 I’m currently working on **Project: Global Forces**
+- 🔭 I’m currently working on **Hosting Services**
 
 - 🌱 I’m currently learning **React.js, Next.js, Node.js, Three.js**
 
-- 👨‍💻 All of my projects are available at [https://thadon1110.github.io/portfolio/](https://thadon1110.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://damianduda.dev/](https://damianduda.dev/)
 
 - 📫 How to reach me **damian.duda2302@gmail.com**
 
