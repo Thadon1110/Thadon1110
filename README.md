@@ -1,4 +1,4 @@
-![MasterHead](./baner.jpg)
+<center>![MasterHead](./baner.jpg)</center>
 <h1 align="center">Hi 👋, I'm Damian Duda</h1>
 <h3 align="center">A passionate full stack developer from Poland, fourth year student</h3>
 <img align="right" alt="Coding" width="400" src="./header.jpg">
